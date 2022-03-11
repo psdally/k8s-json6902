@@ -1,0 +1,3 @@
+- op: replace
+  path: /spec/template/spec/nodeSelector/example.com/nodelabel2
+  value: "anothervalue"

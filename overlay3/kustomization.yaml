@@ -1,0 +1,9 @@
+resources:
+- ../base
+
+patches:
+- path: patch.yaml
+  target:
+    version: v1
+    kind: Deployment
+    name: helloworld-deployment
