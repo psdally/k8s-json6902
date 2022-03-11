@@ -1,1 +1,1 @@
-See: https://medium.com/p/1d19a0f4a038
+See: https://pauldally.medium.com/1d19a0f4a038
